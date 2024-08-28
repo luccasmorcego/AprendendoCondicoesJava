@@ -21,7 +21,7 @@ public class ExemploCondicao2 {
         // || ou
 
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Informe o valor bruto");
+        System.out.println("Informe o valor bruto:");
         valorBruto = scanner.nextDouble();
 
         if(valorBruto > 1000 && valorBruto <= 2000) {

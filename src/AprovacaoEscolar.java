@@ -5,7 +5,7 @@ public class AprovacaoEscolar {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Digite sua média escolar: ");
+        System.out.println("Digite sua média escolar final: ");
         int média = sc.nextInt();
 
         if (média >= 7)
